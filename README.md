@@ -9,7 +9,7 @@
 <div align="center">
 
  
- 🧑🏻‍🎓 I am currently a student at the **Institut Teknologi Adhi Tama Surabaya**
+ 🏫 I am currently a student at the **Institut Teknologi Adhi Tama Surabaya**
  
  🌱 I am currently learning to be a fullstack developer at **NF Academy**
 
