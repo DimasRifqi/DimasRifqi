@@ -11,7 +11,7 @@
  
  🏫 I am currently a student at the **Institut Teknologi Adhi Tama Surabaya**
  
- 🌱 I am currently learning to be a fullstack developer at **NF Academy**
+ 🌱 I am currently learning to be a fullstack developer at **CODEPOLITAN**
 
 🚀 My ambition is to become a **fullstack developer**
 
